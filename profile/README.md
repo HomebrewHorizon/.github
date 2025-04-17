@@ -26,6 +26,7 @@ We welcome contributions! If you're interested in joining, feel free to:
 Want to chat or contribute ideas? Find us on:
 
 - [Discord](https://discord.gg/hKs2snYqDQ)
+- [Bluesky](https://bsky.app/profile/homebrewhorizon.bsky.social)
 
 ---
 
