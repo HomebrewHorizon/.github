@@ -28,6 +28,10 @@ Want to chat or contribute ideas? Find us on:
 - [Discord](https://discord.gg/hKs2snYqDQ)
 - [Bluesky](https://bsky.app/profile/homebrewhorizon.bsky.social)
 
+## Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HomebrewHorizon&count_private=false&locale=en&theme=tokyonight&layout=donut)
+![My's github stats](https://github-readme-stats.vercel.app/api?username=HomebrewHorizon&show_icons=true&locale=en&theme=tokyonight)
+
 ---
 
 ### 🏆 Let's build something incredible together!
